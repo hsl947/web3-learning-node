@@ -1,0 +1,15 @@
+{
+  "name": "web3-learning",
+  "license": "MIT",
+  "scripts": {
+    "index": "node index",
+    "contract": "node contract",
+    "compiler": "node compiler"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ethereumjs-tx": "1.3.7",
+    "solc": "^0.8.11",
+    "web3": "^1.7.0"
+  }
+}
